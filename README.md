@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ How to Use the Model(Use This If above Link is not working)
+## 🛠️ How to Use the Model (Use This If above Link is not working)
 
 1. **Unzip** the `project.zip` file provided with the submission.  
    It contains all necessary files, including:
