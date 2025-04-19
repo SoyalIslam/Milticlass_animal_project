@@ -1,5 +1,3 @@
-Thanks for the clarification! Here's your **README content professionally rewritten**, keeping your original intent while improving grammar, clarity, and structure — with a subtle touch of emojis for readability:
-
 ---
 
 # 🐾 Multiclass Animal Classification Project
