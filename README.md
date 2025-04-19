@@ -1,1 +1,1 @@
-# Milticlass_animal_project
+# Multiclass_animal_project
