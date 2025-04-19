@@ -1,6 +1,30 @@
-# Multiclass_animal_classification_project
-# Model Drive Link
-https://drive.google.com/file/d/19UuAkVQDsQrNnuRx_BAjLurwfqG1snLt/view?usp=drive_link
-# I also add the project zip. If link is not working due to any issue.
-# For use the model first unzip the project.zip inside the zip all the config, jason and model are present.
-# After the unzip all the file then we need to save the by name "project.keras" 
+Thanks for the clarification! Here's your **README content professionally rewritten**, keeping your original intent while improving grammar, clarity, and structure — with a subtle touch of emojis for readability:
+
+---
+
+# 🐾 Multiclass Animal Classification Project
+
+## 🔗 Model Drive Link  
+[👉 Click here to access the model](https://drive.google.com/file/d/19UuAkVQDsQrNnuRx_BAjLurwfqG1snLt/view?usp=drive_link)
+
+> 📦 A zipped version of the project is also included in case the drive link doesn’t work.
+
+---
+
+## 🛠️ How to Use the Model
+
+1. **Unzip** the `project.zip` file provided with the submission.  
+   It contains all necessary files, including:
+   - Configuration files  
+   - JSON files  
+   - The trained model
+
+2. After extracting, make sure to **save the model file as**:
+
+   ```bash
+   project.keras
+   ```
+
+> ⚠️ It's important to use the exact filename `project.keras` for successful loading and execution.
+
+---
